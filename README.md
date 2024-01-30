@@ -19,7 +19,7 @@ The goal of this assignment was to create a regex tutorial using gist.
 - Added tuttorial information into gist.
 
 #### Result
-- GitHub Link: (https://github.com/aqtagon/Regex-Tutorial-Homework)
-- GitHub gist Link: https://gist.github.com/aqtagon/2dc27a39bf6e6ec4dc6c2b2660c28e19
+- GitHub Link: https://github.com/amnindersinghk/regex-tutorial-homework
 
-Note: Got assistance from Cuitlahuac Hernandez from class and used chatgpt and google for questions.
+
+Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.
