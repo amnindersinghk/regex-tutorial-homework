@@ -70,4 +70,4 @@ The URL regex uses the all of these metacharacters to quantify the number of mat
 
 ## Author
 
-Created by Ahmed Danawi [GitHub profile](https://github.com/aqtagon/)
+Created by Amninder Singh[GitHub profile]https://github.com/amnindersinghk
